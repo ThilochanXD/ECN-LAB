@@ -25,6 +25,14 @@
 **CIRCUIT DIAGRAM:**
 
 
+![WhatsApp Image 2026-03-30 at 9 39 31 AM](https://github.com/user-attachments/assets/3cae6c78-a947-4c90-b7c8-54a2606d835b)
+![WhatsApp Image 2026-03-30 at 9 39 31 AM (1)](https://github.com/user-attachments/assets/4e67b536-93b0-49e9-9e9c-6b0ce365b1d9)
+![WhatsApp Image 2026-03-30 at 9 39 32 AM](https://github.com/user-attachments/assets/28967ffb-3c8f-4d5e-9395-fe487b862db9)
+![WhatsApp Image 2026-03-30 at 9 39 32 AM (1)](https://github.com/user-attachments/assets/9b0bd170-5036-4e85-9e23-183c13ec9a54)
+
+
+
+
 
 
 
@@ -53,3 +61,4 @@
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
+![WhatsApp Image 2026-03-30 at 9 39 30 AM](https://github.com/user-attachments/assets/557a178b-7ed3-409b-b2ba-1113a1c7e837)
